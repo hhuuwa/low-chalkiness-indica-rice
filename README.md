@@ -4,7 +4,6 @@ Code repository for the study **Population Genomics Reveals Selection Signatures
 
 This repository organizes the main analysis scripts used in the manuscript, from phenotype processing and variant discovery to population genomics, haplotype analysis, pedigree tracing, and genotype-to-phenotype prediction.
 
-The layout and presentation style were organized with reference to the public repository [YaoZhou89/TGG](https://github.com/YaoZhou89/TGG).
 
 ## Overview
 
