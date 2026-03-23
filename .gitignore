@@ -1,0 +1,57 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+logs/
+
+# Analysis outputs
+results/
+output/
+outputs/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.html
+*.json
+*.pickle
+*.rds
+*.RDS
+
+# Sequence and variant indexes / large intermediates
+*.bam
+*.bai
+*.sam
+*.cram
+*.crai
+*.vcf.gz.tbi
+*.vcf.gz.csi
+*.g.vcf.gz.tbi
+*.g.vcf.gz.csi
+
