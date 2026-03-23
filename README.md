@@ -204,9 +204,6 @@ Several scripts are written for specific datasets, sample lists, or candidate ge
 - output directories, and
 - candidate gene lists.
 
-### 4. Encoding
-
-Some historical comments in shell scripts may show encoding artifacts. This does not affect the core logic, but cleaning comments and normalizing file encoding is recommended for long-term maintenance.
 
 ## Suggested data organization
 
